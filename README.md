@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Immanuel04
-- 👀 I’m interested in Data Analysing and Motorsports racing
+- 👀 I’m interested in Data Analysing, Full Stack Developer and Motorsports racing
 - 🌱 I’m currently learning Bachelor's degree in Computer Science 
 - Worked as an Software developer Intern at Grizla Technologies
 
